@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstMaui.CrabNews"
+             Title="CrabNews">
+    <VerticalStackLayout>
+        <SearchBar Placeholder="Crab News" TextChanged="SearchBar_TextChanged"/>
+        <WebView Source="https://www.cnn.com/2022/10/16/us/alaska-snow-crab-harvest-canceled-climate/index.html" MinimumHeightRequest="600" MinimumWidthRequest="400"/>
+    </VerticalStackLayout>
+</ContentPage>

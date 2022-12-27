@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstMaui.Accounts"
+             Title="Accounts">
+    <VerticalStackLayout>
+        <Label Text="Crabcount" FontSize="Header" HorizontalTextAlignment="Center"/>
+        <HorizontalStackLayout HorizontalOptions="Center">
+            <Label Text="Crab Name: " HorizontalOptions="Start"/>
+            <Entry x:Name="nameEntry" Text="" Placeholder="King Crab" HorizontalOptions="CenterAndExpand"/>
+        </HorizontalStackLayout>
+        <Label Text="Crab Facts" FontSize="Header" HorizontalTextAlignment="Center"/>
+        <ListView x:Name="lvFacts" HorizontalOptions="CenterAndExpand"/>
+    </VerticalStackLayout>
+</ContentPage>

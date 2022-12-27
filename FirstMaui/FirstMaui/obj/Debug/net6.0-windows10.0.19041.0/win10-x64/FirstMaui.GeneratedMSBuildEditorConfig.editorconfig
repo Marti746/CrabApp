@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstMaui
+build_property.ProjectDir = C:\Users\HP\Desktop\CSE\CSE_382\cse382\FirstMaui\FirstMaui\
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/Accounts.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.Accounts.xaml
+build_metadata.AdditionalFiles.TargetPath = Accounts.xaml
+build_metadata.AdditionalFiles.RelativePath = Accounts.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/CrabNews.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.CrabNews.xaml
+build_metadata.AdditionalFiles.TargetPath = CrabNews.xaml
+build_metadata.AdditionalFiles.RelativePath = CrabNews.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/HP/Desktop/CSE/CSE_382/cse382/FirstMaui/FirstMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
