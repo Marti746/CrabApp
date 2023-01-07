@@ -60,6 +60,9 @@
 	  <MauiXaml Update="Accounts.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Crabfacts.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="CrabNews.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

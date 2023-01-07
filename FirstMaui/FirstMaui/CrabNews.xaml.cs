@@ -1,5 +1,3 @@
-using Android.App.AppSearch;
-
 namespace FirstMaui;
 
 public partial class CrabNews : ContentPage

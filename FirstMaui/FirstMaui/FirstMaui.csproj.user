@@ -14,6 +14,9 @@
     <MauiXaml Update="Accounts.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Crabfacts.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="CrabNews.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

@@ -6,10 +6,8 @@
     <VerticalStackLayout>
         <Label Text="Crabcount" FontSize="Header" HorizontalTextAlignment="Center"/>
         <HorizontalStackLayout HorizontalOptions="Center">
-            <Label Text="Crab Name: " HorizontalOptions="Start"/>
-            <Entry x:Name="nameEntry" Text="" Placeholder="King Crab" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="Crab Savers Name: " HorizontalOptions="Start"/>
+            <Entry x:Name="nameEntry" Text="" Placeholder="King Crabert II" HorizontalOptions="CenterAndExpand"/>
         </HorizontalStackLayout>
-        <Label Text="Crab Facts" FontSize="Header" HorizontalTextAlignment="Center"/>
-        <ListView x:Name="lvFacts" HorizontalOptions="CenterAndExpand"/>
     </VerticalStackLayout>
 </ContentPage>

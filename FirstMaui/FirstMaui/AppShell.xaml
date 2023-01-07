@@ -23,9 +23,14 @@
             Icon="icon_account" />
 
         <ShellContent
-            Title="CrabNews"
+            Title="Crab News"
             ContentTemplate="{DataTemplate local:CrabNews}"
             Icon="icon_news" />
+
+        <ShellContent
+            Title="Crab Facts"
+            ContentTemplate="{DataTemplate local:Crabfacts}"
+            Icon="icon_facts" />
     </TabBar>
 
 </Shell>
